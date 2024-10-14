@@ -30,6 +30,21 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
  - Explore new technologies
 - Continuous learning
 - Share knowledge
+
+###
+
+<h5 align="left">📬 How to reah me :</h5>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+</div>
+
 ###
 
 <h3 align="left">​​​🎯​​ Skills :</h3>
