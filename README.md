@@ -33,7 +33,7 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
 
 ###
 
-<h5 align="left">📬 How to reah me :</h5>
+<h5 align="left">📬 How to reach me :</h5>
 
 ###
 
