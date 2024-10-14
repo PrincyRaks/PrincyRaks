@@ -18,7 +18,16 @@
 
 ###
 
-<p align="left">Paste the code in stack edit</p>
+Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madagascar ​​🇲🇬​.
+
+​​💻 ​Passionate an artificial intelligence.
+​​🎓​ Graduated with a **degree in application development**.
+​​​📚​ Currently a student at **42 school Antananarivo**, where I am constantly discovering and learning new skills.
+
+​🌱​ My development plan :
+ - Explore new technologies
+- Continuous learning
+- Share knowledge
 
 ###
 
