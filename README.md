@@ -128,9 +128,9 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
 
 ###
 
-<div align="left">
-  <img height="100" src="https://github.com/PrincyRaks/PrincyRaks/blob/main/badges/libftm.png?raw=true"  />
-</div>
+| Project       | 
+| :------------  |
+| ![libft-bonus](./badges/libftm.png)    |
 
 ###
 
