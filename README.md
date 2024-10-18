@@ -52,10 +52,10 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
 ###
 
 <table>
-    <td>
+    <tr>
         <th>Programming Languages :</th>
         <th>Web Development :</th>
-    </td>
+    </tr>
     <tr>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -88,10 +88,10 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
         </td>
     </tr>
-    <!--<td>
+    <tr>
         <th>Mobile App Development :</th>
         <th>Database :</th>
-    </th>
+    </tr>
     <tr>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
@@ -110,10 +110,10 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
         </td>
     </tr>
-    <td>
+    <tr>
         <th>Game Engines :</th>
         <th>Other :</th>
-    </th>
+    </tr>
     <tr>
         <td>
             <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
@@ -123,8 +123,9 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
         </td>
-    </tr>-->
+    </tr>
 </table>
+
 ###
 
 <h3 align="left">✅​ Project validate in common core 42 school :</h3>
