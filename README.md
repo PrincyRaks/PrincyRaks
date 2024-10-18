@@ -128,10 +128,9 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
 
 ###
 
-| Project       | 
-| :------------  |
-| ![libft-bonus](./badges/libftm.png)    |
 
+| ![libft-bonus](./badges/libftm.png) ![get_next_line-bonus](./badges/get_next_linem.png) ![born2beroot](./badges/born2beroote.png)  |
+| :------------  |
 ###
 
 <h3 align="left">📊​ My stats :</h3>
