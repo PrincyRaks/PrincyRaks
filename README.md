@@ -88,7 +88,7 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
         </td>
     </tr>
-    <td>
+    <!--<td>
         <th>Mobile App Development :</th>
         <th>Database :</th>
     </th>
@@ -123,7 +123,7 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
         </td>
-    </tr>
+    </tr>-->
 </table>
 ###
 
