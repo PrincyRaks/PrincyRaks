@@ -129,7 +129,7 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
 ###
 
 
-| ![libft-bonus](./badges/libftm.png) ![get_next_line-bonus](./badges/get_next_linem.png) ![born2beroot](./badges/born2beroote.png)  |
+| ![libft-bonus](./badges/libftm.png) ![get_next_line-bonus](./badges/get_next_linem.png) ![born2beroot](./badges/born2beroote.png) ![ft_printf](./badges/ft_printfe.png)  ![minitalk-bonus](./badges/minitalkm.png)  |
 | :------------  |
 ###
 
