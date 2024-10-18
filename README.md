@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="200" src="	https://github.com/PrincyRaks/PrincyRaks/blob/main/banner.gif?raw=true"  />
+<div align="center">  
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rrakotos?1337Badge=off&UM6P=off" alt="rrakotos's 42 stats" /></a>
 </div>
 
 ###
