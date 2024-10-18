@@ -55,7 +55,7 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
     <td>
         <th>Programming Languages :</th>
         <th>Web Development :</th>
-    </th>
+    </td>
     <tr>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
