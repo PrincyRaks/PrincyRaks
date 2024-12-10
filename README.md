@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PrincyRaks.PrincyRaks&left_color=gray&right_color=blue"  />
-</div>
-
-###
-
 <h1 align="left">Informations</h1>
 
 ###
