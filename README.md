@@ -91,6 +91,7 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
       <tr>
           <th>Database :</th>
           <th>Game Engines :</th>
+          <th>Other :</th>
       </tr>
       <tr>
           <td>
@@ -105,11 +106,6 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
           <td>
               <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
           </td>
-      </tr>
-      <tr>
-          <th>Other :</th>
-      </tr>
-      <tr>
           <td>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
           </td>
