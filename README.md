@@ -45,37 +45,78 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
 
 ###
 
-## Technologies
-
-### Programming Languages
-| C | C++ | C# | Java | JavaScript | PHP | Python |
-|---|-----|----|------|------------|-----|--------|
-| ![C logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) | ![C++ logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![C# logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) | ![Java logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) | ![JavaScript logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![PHP logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) | ![Python logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) |
-
-### Web Development
-| Spring | Apache | HTML5 | CSS3 | React | Bootstrap | Laravel | CodeIgniter |
-|--------|--------|-------|------|-------|-----------|---------|-------------|
-| ![Spring logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) | ![Apache logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg) | ![HTML5 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS3 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![React logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Bootstrap logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg) | ![Laravel logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg) | ![CodeIgniter logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg) |
-
-### Mobile App Development
-| Android Studio | Ionic |
-|----------------|-------|
-| ![Android Studio logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg) | ![Ionic logo](https://cdn.simpleicons.org/ionic/3880FF) |
-
-### Database
-| PostgreSQL | MySQL | Oracle | MongoDB |
-|------------|-------|--------|---------|
-| ![PostgreSQL logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) | ![MySQL logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![Oracle logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg) | ![MongoDB logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) |
-
-### Game Engines
-| Unity |
-|-------|
-| ![Unity logo](https://cdn.simpleicons.org/unity/FFFFFF) |
-
-### Other
-| Linux |
-|-------|
-| ![Linux logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) |
+<table style="width: 100%; text-align: center; border-spacing: 15px;">
+    <tr>
+        <th style="padding: 10px;">Programming Languages :</th>
+        <th style="padding: 10px;">Web Development :</th>
+    </tr>
+    <tr>
+        <td style="padding: 10px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo" />
+            <img width="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo" />
+            <img width="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo" />
+            <img width="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
+            <img width="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
+            <img width="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo" />
+            <img width="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
+        </td>
+        <td style="padding: 10px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo" />
+            <img width="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo" />
+            <img width="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
+            <img width="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />
+            <img width="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
+            <img width="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo" />
+            <img width="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo" />
+            <img width="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="60" alt="codeigniter logo" />
+        </td>
+    </tr>
+    <tr>
+        <th style="padding: 10px;">Mobile App Development :</th>
+        <th style="padding: 10px;">Database :</th>
+    </tr>
+    <tr>
+        <td style="padding: 10px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo" />
+            <img width="20" />
+            <img src="https://cdn.simpleicons.org/ionic/3880FF" height="60" alt="ionic logo" />
+        </td>
+        <td style="padding: 10px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo" />
+            <img width="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" />
+            <img width="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo" />
+            <img width="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo" />
+        </td>
+    </tr>
+    <tr>
+        <th style="padding: 10px;">Game Engines :</th>
+        <th style="padding: 10px;">Other :</th>
+    </tr>
+    <tr>
+        <td style="padding: 10px;">
+            <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="60" alt="unity logo" />
+        </td>
+        <td style="padding: 10px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo" />
+        </td>
+    </tr>
+</table>
 
 
 ###
