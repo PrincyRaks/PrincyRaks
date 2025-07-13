@@ -120,7 +120,7 @@
   ###
   
   
-  | ![libft-bonus](./badges/libftm.png) ![get_next_line-bonus](./badges/get_next_linem.png) ![born2beroot](./badges/born2beroote.png) ![ft_printf](./badges/ft_printfe.png)  ![minitalk-bonus](./badges/minitalkm.png) ![fractol-bonus](./badges/fract-olm.png) ![push_swap-bonus](./badges/push_swapm.png) ![minishell](./badges/minishellm.png) ![philosophers](./badges/philosophersm.png) ![cub3d](./badges/cub3dm.png) ![netpractice](./badges/netpracticem.png)  |
+  | ![libft-bonus](./badges/libftm.png) ![get_next_line-bonus](./badges/get_next_linem.png) ![born2beroot](./badges/born2beroote.png) ![ft_printf](./badges/ft_printfe.png)  ![minitalk-bonus](./badges/minitalkm.png) ![fractol-bonus](./badges/fract-olm.png) ![push_swap-bonus](./badges/push_swapm.png) ![minishell](./badges/minishelle.png) ![philosophers](./badges/philosopherse.png) ![cub3d](./badges/cub3dm.png) ![netpractice](./badges/netpracticee.png)  |
   | :------------  |
   ###
   
