@@ -49,6 +49,7 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
       <tr>
           <th>Programming Languages :</th>
           <th>Web Development :</th>
+          <th>Mobile App Development :</th>
       </tr>
       <tr>
           <td>
@@ -81,17 +82,17 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
               <img width="12" />
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
           </td>
-      </tr>
-      <tr>
-          <th>Mobile App Development :</th>
-          <th>Database :</th>
-      </tr>
-      <tr>
           <td>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
               <img width="12" />
               <img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="ionic logo"  />
           </td>
+      </tr>
+      <tr>
+          <th>Database :</th>
+          <th>Game Engines :</th>
+      </tr>
+      <tr>
           <td>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
               <img width="12" />
@@ -101,15 +102,14 @@ Hi ​👋​! My name is **Princy** and I'm **FullStack Developer**, from Madag
               <img width="12" />
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
           </td>
-      </tr>
-      <tr>
-          <th>Game Engines :</th>
-          <th>Other :</th>
-      </tr>
-      <tr>
           <td>
               <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
           </td>
+      </tr>
+      <tr>
+          <th>Other :</th>
+      </tr>
+      <tr>
           <td>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
           </td>
