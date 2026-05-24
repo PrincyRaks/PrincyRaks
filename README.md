@@ -28,11 +28,11 @@
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://www.linkedin.com/in/princy-rovasoa-rakotosalama">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://42born2code.slack.com/team/U06K0BPCBM1">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="Slack" />
   </a>
 </div>
@@ -44,51 +44,57 @@
 <table>
   <tr>
     <th>Programming Languages</th>
-    <th>Web Development</th>
-    <th>Mobile</th>
+    <th>Frontend</th>
+    <th>Backend & Runtime</th>
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
+      <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
+      <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
+      <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+      <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
+      <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
+      <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" />
+      <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="CodeIgniter" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache" />
+    </td>
+  </tr>
+  <tr>
+    <th>Database & ORM</th>
+    <th>DevOps & Tools</th>
+    <th>Mobile & Game</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
       <img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="Ionic" />
-    </td>
-  </tr>
-  <tr>
-    <th>Database</th>
-    <th>Game Engine</th>
-    <th>Other</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-    </td>
-    <td>
-      <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="Unity" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+      <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity" />
     </td>
   </tr>
 </table>
@@ -106,5 +112,5 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=PrincyRaks&theme=algolia&hide_border=false" height="170" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrincyRaks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="170" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrincyRaks&theme=github_dark" height="170" alt="languages graph" />
 </div>
