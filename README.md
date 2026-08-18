@@ -107,10 +107,3 @@
 | :--- |
 
 ---
-
-## 📊 My Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=PrincyRaks&theme=algolia&hide_border=false" height="170" alt="streak stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrincyRaks&theme=github_dark" height="170" alt="languages graph" />
-</div>
